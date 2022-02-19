@@ -20,7 +20,7 @@
          var multiply =a*b;
          console.log(multiply);
          var divide = a/b;
-         console.log(divide);
+          console.log(divide);
       </script>
    </body>
 </html>
